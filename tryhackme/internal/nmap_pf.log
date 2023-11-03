@@ -1,0 +1,14 @@
+# Nmap 7.92 scan initiated Fri Nov  3 17:38:44 2023 as: nmap -p 9999 -A -sC -sV -o nmap_pf.log localhost
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.014s latency).
+Other addresses for localhost (not scanned): ::1
+
+PORT     STATE SERVICE VERSION
+9999/tcp open  http    Jetty 9.4.30.v20200611
+|_http-server-header: Jetty(9.4.30.v20200611)
+|_http-title: Site doesn't have a title (text/html;charset=utf-8).
+| http-robots.txt: 1 disallowed entry 
+|_/
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Nov  3 17:38:55 2023 -- 1 IP address (1 host up) scanned in 10.99 seconds
