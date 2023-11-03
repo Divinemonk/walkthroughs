@@ -1,5 +1,5 @@
 # Internal [internal.thm]
-> edit `/etc/hosts` file to set the ip to hostname
+> edit `/etc/hosts` file to set the ip to hostname  
 > [reference](https://medium.com/@bamroatbabak/internal-tryhackme-9e691b6e6cfb)
 
 <br>
