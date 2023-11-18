@@ -11,6 +11,7 @@
 	- open smb (p139 & p445) and sql server (Microsoft SQL Server 2017)
 	- windows os detected
 
+## hacking
 - smb _guest_ login allowed (`smbclient -L [Target_IP]`)
 	- shared folders: `ADMIN$`, `backups`, `C$`, `IPC$`
 	- found `prod.dtsConfig` in `backups`
