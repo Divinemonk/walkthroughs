@@ -5,7 +5,7 @@
 ## TryHackMe
 - [Internal](./tryhackme/internal/report.md)
 - [Relevant](./tryhackme/relevant/report.md)
-- [Wonderland](./tryhackme/wonderlan/notes.md)
+- [Wonderland](./tryhackme/wonderland/notes.md)
 
 <br>
 
