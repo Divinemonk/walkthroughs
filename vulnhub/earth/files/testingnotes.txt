@@ -1,0 +1,9 @@
+Testing secure messaging system notes:
+*Using XOR encryption as the algorithm, should be safe as used in RSA.
+*Earth has confirmed they have received our sent messages.
+*testdata.txt was used to test encryption.
+*terra used as username for admin portal.
+Todo:
+*How do we send our monthly keys to Earth securely? Or should we change keys weekly?
+*Need to test different key lengths to protect against bruteforce. How long should the key be?
+*Need to improve the interface of the messaging interface and the admin panel, it's currently very basic.
