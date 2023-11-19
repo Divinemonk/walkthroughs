@@ -1,4 +1,4 @@
-# Walkthroughs: [THM](#tryhackme), [HTB](#hackthebox), [VH](#vulnhub)
+# Walkthroughs: [THM](#tryhackme-), [HTB](#hackthebox-), [VH](#vulnhub-)
 
 <br>
 
