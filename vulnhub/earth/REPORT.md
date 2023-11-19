@@ -21,7 +21,7 @@ __Type__: Virtual Box Archive (_.ova_)
 
 ### Reconnaissance
 
-- [_Netdiscover Scan_]
+- _Netdiscover Scan_
 	- cmd: `sudo netdsicover`
 	- ![netdiscover scan results](./imgs/netdiscover.png)
 
