@@ -4,8 +4,8 @@
 
 ## Client Details
 
-__Machine__: [The Planets: Earth](https://www.vulnhub.com/entry/the-planets-earth,755/)
-	- file: `Earth.ova`
+__Machine__: [The Planets: Earth](https://www.vulnhub.com/entry/the-planets-earth,755/)  
+	- file: `Earth.ova`  
 	- size: `2GB`
 
 __Type__: Virtual Box Archive (_.ova_)
